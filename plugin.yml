@@ -4,5 +4,6 @@ api: 4.0.0
 author: Matze
 description: Lumberaxe plugin - Made by the PMMLP-Team
 main: pmmlp\lumberaxe\Lumberaxe
+mcpe-protocol: [560]
 depend:
   - PMMLP
