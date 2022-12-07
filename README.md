@@ -17,7 +17,7 @@
 # Screenshots
 |                                                                         | | |
 |:-----------------------------------------------------------------------:|:---:|:---:|
-| ![Recipe](https://github.com/PMMLP/Lumberaxe/images/default_recipe.png) |![Texture](https://github.com/PMMLP/Lumberaxe/images/lumberaxe_texture.png)|![Chopping](https://github.com/PMMLP/Lumberaxe/images/lumberaxe_chopping.png)|
+| ![Recipe](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/default_recipe.png) |![Texture](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/lumberaxe_texture.png)|![Chopping](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/lumberaxe_chopping.png)|
 
 # Donate
 
