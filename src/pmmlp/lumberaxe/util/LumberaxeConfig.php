@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace pmmlp\lumberaxe\util;
 
-use pmmlp\util\config\Config;
-use pmmlp\util\config\ConfigParser;
+use pmmlp\config\Config;
+use pmmlp\config\ConfigParser;
 use pocketmine\crafting\CraftingRecipe;
 
 class LumberaxeConfig extends Config {

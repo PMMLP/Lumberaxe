@@ -9,7 +9,7 @@ use pmmlp\crafting\CraftingRecipeRegistry;
 use pmmlp\lumberaxe\block\LeavesBlock;
 use pmmlp\lumberaxe\item\LumberaxeItem;
 use pmmlp\lumberaxe\util\LumberaxeConfig;
-use pmmlp\util\resourcepack\ResourcePackLoader;
+use pmmlp\resourcepack\ResourcePackLoader;
 use pocketmine\block\BlockBreakInfo;
 use pocketmine\block\BlockFactory;
 use pocketmine\block\BlockIdentifier;
