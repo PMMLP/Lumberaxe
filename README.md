@@ -15,7 +15,7 @@
 ```
 
 # Note
-This plugin needs a [resource pack](https://github.com/PMMLP/Lumberaxe/releases/download/V1.0.0/Lumberaxe-RP.zip) to work
+This plugin needs a [resource pack](https://github.com/PMMLP/Lumberaxe/releases/download/V1.0.0/Lumberaxe.mcpack) to work
 
 # Requires
 
