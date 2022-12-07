@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace pmmlp\lumberaxe\util;
 
+use customiesdevs\customies\item\CustomiesItemFactory;
 use pmmlp\config\Config;
 use pmmlp\config\ConfigParser;
 use pocketmine\crafting\CraftingRecipe;
@@ -25,14 +26,13 @@ class LumberaxeConfig extends Config {
             "BCB",
             "BA ",
             " A "
-        ],
-        "result" => "pmmlp:lumberaxe"
+        ]
     ];
 
 
     private static CraftingRecipe $recipeObject;
 
     public static function recipe(): CraftingRecipe {
-        return self::$recipeObject ??= ConfigParser::getCraftingRecipe(self::$recipe);
+        return self::$recipeObject ??= ConfigParser::getCraftingRecipe(self::$recipe, CustomiesItemFactory::getInstance()->get("pmmlp:lumberaxe"));
     }
 }
