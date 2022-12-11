@@ -22,9 +22,9 @@ This plugin needs a [resource pack](https://github.com/PMMLP/Lumberaxe/releases/
 [libPMMLP](https://github.com/PMMLP/libPMMLP)
 
 # Screenshots
-|                                                                         | | |
-|:-----------------------------------------------------------------------:|:---:|:---:|
-| ![Recipe](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/default_recipe.png) |![Texture](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/lumberaxe_texture.png)|![Chopping](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/lumberaxe_chopping.png)|
+![Recipe](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/default_recipe.png)
+![Texture](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/lumberaxe_texture.png)
+![Chopping](https://github.com/PMMLP/Lumberaxe/blob/V1.0.0/images/lumberaxe_chopping.png)
 
 # Config
 
